@@ -1,0 +1,17 @@
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\bin\Windows Phone\Debug\PhoneClient.dll
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\bin\Windows Phone\Debug\PhoneClient.pdb
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\PhoneClient.dll
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\PhoneClient.pdb
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\bin\Windows Phone\Debug\PhoneClient.xap
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\XapCacheFile.xml
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\bin\Windows Phone\Debug\PhoneClient.xap
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\XapCacheFile.xml
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\PhoneClient\PhoneClient\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

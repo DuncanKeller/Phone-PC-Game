@@ -1,0 +1,6 @@
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\NetworkingTest\NetworkingTest\obj\x86\Debug\NetworkingTest.csprojResolveAssemblyReference.cache
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\NetworkingTest\NetworkingTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\NetworkingTest\NetworkingTest\bin\x86\Debug\NetworkingTest.exe
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\NetworkingTest\NetworkingTest\bin\x86\Debug\NetworkingTest.pdb
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\NetworkingTest\NetworkingTest\obj\x86\Debug\NetworkingTest.exe
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\NetworkingTest\NetworkingTest\obj\x86\Debug\NetworkingTest.pdb

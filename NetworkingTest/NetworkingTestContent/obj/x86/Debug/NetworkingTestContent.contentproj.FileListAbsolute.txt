@@ -1,0 +1,1 @@
+c:\users\duncan\documents\visual studio 2010\Projects\NetworkingTest\NetworkingTest\NetworkingTestContent\obj\x86\Debug\NetworkingTestContent.contentprojResolveAssemblyReference.cache
